@@ -8,18 +8,12 @@ vulnerability = "deny"
 unmaintained = "deny"
 yanked = "deny"
 notice = "deny"
-ignore = [
-	# Format: "RUSTSEC-YYYY-NNNN", # why - what - <link to issue>
-]
+ignore = []
 
 [licenses]
 unlicensed = "deny"
 copyleft = "deny"
-allow = [
-    "MIT",
-    "Apache-2.0",
-    "Zlib",
-]
+allow = ["MIT", "Apache-2.0", "Zlib"]
 default = "deny"
 
 # [[licenses.clarify]]
@@ -44,4 +38,4 @@ allow-registry = ["https://github.com/rust-lang/crates.io-index"]
 allow-git = []
 
 [sources.allow-org]
-github = ["Tamschi"]
+github = ["Discite"]
