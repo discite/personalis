@@ -8,8 +8,8 @@ license = "Apache-2.0"
 repository = "https://github.com/discite/personalis"
 homepage = "https://github.com/discite/personalis/tree/v0.0.1"
 documentation = "https://docs.rs/personalis/0.0.1"
-keywords = [] #TODO
-categories = [] #TODO
+keywords = ['diary', 'journal', 'encrypted', 'cli']
+categories = ['command-line-utilities']
 readme = "README.md"
 include = [
 	"**/*.rs",

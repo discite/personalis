@@ -63,7 +63,7 @@ While there are no formal style requirements, here are some suggestions that mig
 
 ### Meta data
 
-Please add yourself to each copyright holders list of [LICENSE-APACHE](LICENSE-APACHE) and [LICENSE-MIT](LICENSE-MIT) when contributing, or alternatively include a note in your pull request that you intentionally didn't do so.
+Please add yourself to each copyright holders list of [LICENSE](LICENSE) when contributing, or alternatively include a note in your pull request that you intentionally didn't do so.
 
 Nicknames and entries without email addresses are fine, too.
 
@@ -76,7 +76,7 @@ I use the following format for an upcoming release with contributed changes:
 ```markdown
 ## next
 
-TODO: Date
+TO-DO: Date
 
 - Revisions:
   - Change title (contributed by @<your GitHub @> in #<PR #>)
