@@ -4,7 +4,7 @@
 [![Crates.io](https://img.shields.io/crates/v/personalis)](https://crates.io/crates/personalis)
 [![Docs.rs](https://docs.rs/personalis/badge.svg)](https://docs.rs/personalis)
 
-![Rust 1.54](https://img.shields.io/static/v1?logo=Rust&label=&message=1.54&color=grey)
+![Rust 1.58](https://img.shields.io/static/v1?logo=Rust&label=&message=1.58&color=grey)
 [![CI](https://github.com/discite/personalis/workflows/CI/badge.svg?branch=develop)](https://github.com/discite/personalis/actions?query=workflow%3ACI+branch%3Adevelop)
 ![Crates.io - License](https://img.shields.io/crates/l/personalis/0.0.1)
 
