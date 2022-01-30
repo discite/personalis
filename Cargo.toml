@@ -2,7 +2,7 @@
 name = "personalis"
 version = "0.0.1"
 authors = ["discite <discite@pm.me>"]
-edition = "2018"
+edition = "2021"
 description = "A personal project to make the most simple, yet secret journal"
 license = "Apache-2.0"
 repository = "https://github.com/discite/personalis"
@@ -35,3 +35,7 @@ cargo-husky = "1.5.0"
 git_info = "0.1.2"
 version-sync = "0.9.3"
 wasm-bindgen-test = "0.3.28"
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
