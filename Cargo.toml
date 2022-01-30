@@ -7,7 +7,7 @@ description = "A personal project to make the most simple, yet secret journal"
 license = "Apache-2.0"
 repository = "https://github.com/discite/personalis"
 homepage = "https://github.com/discite/personalis/tree/v0.0.1"
-documentation = "https://docs.rs/TODO_CRATE_NAME/0.0.1"
+documentation = "https://docs.rs/personalis/0.0.1"
 keywords = [] #TODO
 categories = [] #TODO
 readme = "README.md"
@@ -26,9 +26,9 @@ resolver = "2"
 publish = false
 
 [badges]
-is-it-maintained-issue-resolution = { repository = "Tamschi/TODO_CRATE_NAME" }
-is-it-maintained-open-issues = { repository = "Tamschi/TODO_CRATE_NAME" }
-maintenance = { status = "experimental" }                                      # This may differ between branches.
+is-it-maintained-issue-resolution = { repository = "discite/personalis" }
+is-it-maintained-open-issues = { repository = "discite/personalis" }
+maintenance = { status = "experimental" }                                 # This may differ between branches.
 
 [dev-dependencies]
 cargo-husky = "1.5.0"
